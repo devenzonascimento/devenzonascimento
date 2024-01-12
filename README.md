@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Enzo Nascimento 👋
 
-[![Blog](https://img.shields.io/website?label=Meu+Portifólio&style=for-the-badge&url=https://devenzonascimento.github.io/html-css/clonando-paginas/faq-accordion-main/index.html)](https://devenzonascimento.github.io/html-css/clonando-paginas/faq-accordion-main/index.html)
+[![Blog](https://img.shields.io/website?label=Meu+Portifólio&style=for-the-badge&url=https://devenzonascimento.github.io/frontend-mentor-pages/portifolio.html)](https://devenzonascimento.github.io/frontend-mentor-pages/portifolio.html)
 
 ![DevEnzoNascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=Devenzonascimento&show_icons=true&theme=dracula)
 
