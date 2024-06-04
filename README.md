@@ -8,11 +8,9 @@
 - 🌐 Apaixonado por desenvolvimento web
 - 🔍 Dê uma olhada nos meus projetos em [**Frontend Mentor**](https://www.frontendmentor.io/profile/devenzonascimento)
 
-<br/>
-
 <h2>🛠 &nbsp;Tecnologias:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,vite,nodejs,prisma,postgres,npm,git&theme=light&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,vite,nodejs,prisma,postgres,git&theme=dark&perline=4)](https://skillicons.dev)
 
 <br/>
 
